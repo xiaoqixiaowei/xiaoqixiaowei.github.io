@@ -6,7 +6,7 @@ subtitle: Every once in a while, you find someone who's iridescent, and when you
 
 My name is Jason, a graduate student majoring in communication engineering.  I have the following qualities:
 
-- I am always enthusiastic
+- Buddhist-style
 - Basketball lovers
 
 ### My story
