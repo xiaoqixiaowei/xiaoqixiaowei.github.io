@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Every once in a while, you find someone who's iridescent, and when you do, nothing will ever compare.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jason, a graduate student majoring in communication engineering.  I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am always enthusiastic
+- Basketball lovers
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In addition to my major, I am also addicted to creating something fancy. So I will also share something about embedded development and programming. 
+This website records my notes and shares some understanding of my recent work.
+
